@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tidalcaves/static/css/main.38686e73.chunk.css",
-    "main.js": "/tidalcaves/static/js/main.61b142df.chunk.js",
-    "main.js.map": "/tidalcaves/static/js/main.61b142df.chunk.js.map",
-    "runtime~main.js": "/tidalcaves/static/js/runtime~main.6d6fc973.js",
-    "runtime~main.js.map": "/tidalcaves/static/js/runtime~main.6d6fc973.js.map",
-    "static/js/2.b41502e9.chunk.js": "/tidalcaves/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/tidalcaves/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/tidalcaves/index.html",
-    "precache-manifest.f4f8bec1386cde82add9f49bd153ee8a.js": "/tidalcaves/precache-manifest.f4f8bec1386cde82add9f49bd153ee8a.js",
-    "service-worker.js": "/tidalcaves/service-worker.js",
-    "static/css/main.38686e73.chunk.css.map": "/tidalcaves/static/css/main.38686e73.chunk.css.map",
-    "static/media/logo.svg": "/tidalcaves/static/media/logo.5d5d9eef.svg"
+    "main.css": "mattgoral.github.io/tidalcaves/static/css/main.38686e73.chunk.css",
+    "main.js": "mattgoral.github.io/tidalcaves/static/js/main.334d108d.chunk.js",
+    "main.js.map": "mattgoral.github.io/tidalcaves/static/js/main.334d108d.chunk.js.map",
+    "runtime~main.js": "mattgoral.github.io/tidalcaves/static/js/runtime~main.3707ecdb.js",
+    "runtime~main.js.map": "mattgoral.github.io/tidalcaves/static/js/runtime~main.3707ecdb.js.map",
+    "static/js/2.b41502e9.chunk.js": "mattgoral.github.io/tidalcaves/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "mattgoral.github.io/tidalcaves/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "mattgoral.github.io/tidalcaves/index.html",
+    "precache-manifest.8da1b8c2d7a86ce99ce4d753fb46e381.js": "mattgoral.github.io/tidalcaves/precache-manifest.8da1b8c2d7a86ce99ce4d753fb46e381.js",
+    "service-worker.js": "mattgoral.github.io/tidalcaves/service-worker.js",
+    "static/css/main.38686e73.chunk.css.map": "mattgoral.github.io/tidalcaves/static/css/main.38686e73.chunk.css.map",
+    "static/media/logo.svg": "mattgoral.github.io/tidalcaves/static/media/logo.5d5d9eef.svg"
   }
 }
