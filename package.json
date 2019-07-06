@@ -2,7 +2,7 @@
   "name": "tidalcaves",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mattgoral.github.io/tidalcaves",
+  "homepage": "mattgoral.github.io/tidalcaves",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
@@ -15,7 +15,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
